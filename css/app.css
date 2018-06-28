@@ -1,0 +1,13 @@
+img{
+  height: 40%;
+  width: 50%;
+}
+
+body{
+  margin: auto;
+  width: 60%;
+}
+
+a{
+  text-decoration: none;
+}
